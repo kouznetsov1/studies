@@ -8,7 +8,6 @@
 
 #### Logistic regression and basis functions
 
-
 ## Lab 2
 
 #### Explicit regularization
